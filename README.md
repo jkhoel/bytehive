@@ -15,4 +15,4 @@ Get the server going, connect to it at `wss://your-domain.shuttle.rs/ws`, and se
 
 ## Attribution
 
-Original server code [curtesy of Shuttle.rs's documentation](https://docs.shuttle.rs/tutorials/websocket-chat-app-js#getting-started-with-rust)
+Original server code [courtesy of Shuttle.rs's documentation](https://docs.shuttle.rs/tutorials/websocket-chat-app-js#getting-started-with-rust)
