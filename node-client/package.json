@@ -1,0 +1,18 @@
+{
+  "name": "bytehive-client",
+  "version": "1.0.0",
+  "description": "A NodeJS client for ByteHive",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node client.js"
+  },
+  "author": "Jens Kristian Hoel",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "moment": "^2.29.4",
+    "ws": "^8.14.2"
+  },
+  "type": "module"
+}
